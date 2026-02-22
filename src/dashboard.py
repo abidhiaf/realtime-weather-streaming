@@ -5,7 +5,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="Weather Dashboard", layout="wide")
 
-st.title("🌦️ Weather Streaming Dashboard by ABIDHIAF")
+st.title("🌦️ Weather Streaming Dashboard By ABIDHIAF")
 
 # ================= LOAD =================
 
